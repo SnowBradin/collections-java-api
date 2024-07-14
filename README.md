@@ -1,0 +1,1 @@
+Inicialmente, tentei fazer a tarefa sem a ajuda da professora (Item, carinho de compras, etc.). Então, segui as orientações e finalizei o projeto em questão e os próximos numa área diferente deste projeto. Por isso, há duas instâncias com os pacotes Carrinho de Compras e itens.
